@@ -1,0 +1,9 @@
+node_modules
+.env
+oldWords.txt
+words.txt
+# Ignore everything in the levels folder
+backend/levels/*
+
+# But keep this one sample file
+!backend/levels/level1_sample.json
